@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BrunoMarijanovic
+- 👀 I’m interested in learn code
+- 🌱 I’m currently start learning JavaScript
+- In semptember 2021 I will start studing DAM (cross-platform application development)
+- 📫 How to reach me via mail brunoandresmarijanovic@gmail.com
