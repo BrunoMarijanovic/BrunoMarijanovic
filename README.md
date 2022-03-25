@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BrunoMarijanovic
 - 👀 I’m interested in learn code
-- 💻 DAM learner
+- 💻 DAM student
 - 📫 Contact brunoandresmarijanovic@gmail.com
