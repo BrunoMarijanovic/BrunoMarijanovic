@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BrunoMarijanovic
 - 👀 I’m interested in learn code
-- 💻 DAM student
-- 📫 Contact brunoandresmarijanovic@gmail.com
+- 💻 Application development technician
+- 📚 Computer engineering student
+- 📫 Linkedin https://www.linkedin.com/in/bruno-marijanovic-371b64197/
