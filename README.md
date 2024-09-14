@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @BrunoMarijanovic
-- 👀 I’m interested in learn code
-- 💻 Application development technician
-- 📚 Computer engineering student
-- 📫 Linkedin https://www.linkedin.com/in/bruno-marijanovic-371b64197/
+Junior software developer passionate about backend and frontend development, API integrations, and cloud solutions. Experienced in a variety of technologies including .NET, Laravel, PHP, and JavaScript, with a focus on solving real-world problems through code. Currently honing my skills with personal projects like API development using ASP.NET Core. Always eager to learn, contribute to open-source projects, and grow in the tech industry.
